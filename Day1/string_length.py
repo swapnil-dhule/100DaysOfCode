@@ -1,7 +1,7 @@
-# # Approach-1
+# Approach-1
 
-# str1 = input("Enter the string: ")
-# print(f"Length of {str1} is {len(str1)}")
+str1 = input("Enter the string: ")
+print(f"Length of {str1} is {len(str1)}")
 
 # Approach-2
 
