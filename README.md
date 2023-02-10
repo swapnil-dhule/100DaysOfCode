@@ -21,16 +21,10 @@ The course covers the following topics:
 - [ ] GUI Programming with Tkinter
 - [ ] Working with APIs and JSON data
 
-## Progress
-
-- Day 1: [ ] Introduction to Python
-- Day 2: [ ] Data Types and Variables
-- ...
-- Day 100: [ ] Working with APIs and JSON data
 
 ## Code
 
-The code developed during this challenge is organized in folders, with one folder for each topic covered in the course. Each folder contains one or more Python scripts that demonstrate the concepts learned.
+The code developed during this challenge is organized in folders, with one folder for each day covered in the course. Each folder contains one or more Python scripts that demonstrate the concepts learned.
 
 ## References
 
