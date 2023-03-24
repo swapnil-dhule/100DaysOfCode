@@ -1,0 +1,19 @@
+A parameter is a variable defined in the function definition that represents a value that the function expects to receive when it is called. Parameters are listed inside the parentheses that follow the function name. Here's an example:
+
+def my_function(param1, param2):
+
+In this example, param1 and param2 are the parameters of the my_function function.
+
+
+
+
+An argument, on the other hand, is a value that is passed to a function when it is called. Arguments are the actual values that are assigned to the corresponding parameters when the function is called. Here's an example:
+
+my_function(10, 20)
+
+In this example, 10 and 20 are the arguments that are passed to the my_function function.
+
+
+
+
+In summary, parameters are placeholders in a function definition that represent the expected inputs to the function, whereas arguments are the actual values that are passed to the function when it is called.
