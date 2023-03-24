@@ -1,0 +1,9 @@
+Day 9:
+
+How to append dictionary into dictionary.
+- You can't use append for dictionaries.
+- 
+
+Where to use global keyword?
+- The global keyword in Python is used to indicate that a variable is a global variable, which means that it can be accessed and modified from anywhere in the code. By default, variables declared within a function are considered local to that function, and cannot be accessed outside of it.
+
