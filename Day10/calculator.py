@@ -33,10 +33,10 @@ logo = """
 
 print(logo)
 
-a = int(input("What's the first number?: "))
+a = float(input("What's the first number?: "))
 print(f"+\n-\n*\n/")
 operation = input("Pick an operation: ")
-b = int(input("What's the next number?: "))
+b = float(input("What's the next number?: "))
 
 
 while True:
@@ -47,14 +47,14 @@ while True:
     if loop == "y":
         a = output
         operation = input("Pick an operation: ")
-        b = int(input("What's the next number?: "))
+        b = float(input("What's the next number?: "))
     elif loop == "n":
         os.system('cls')
         print(logo)
-        a = int(input("What's the first number?: "))
+        a = float(input("What's the first number?: "))
         print(f"+\n-\n*\n/")
         operation = input("Pick an operation: ")
-        b = int(input("What's the next number?: "))
+        b = float(input("What's the next number?: "))
 
 
 
